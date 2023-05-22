@@ -27,5 +27,4 @@ Add an image like below using the image upload icon in quick access bar.
 [](https://i.pinimg.com/originals/a2/b8/10/a2b81062e384c18fb53575822b89aa5f.jpg)
 
 >  Happy coding
->  #include<bits/stdc++.h>
->  
+  #include<bits/stdc++.h>  
