@@ -18,6 +18,8 @@ example:
 
 <a href="https://th.bing.com/th/id/R.69a6d1659017f96c9a8562e6dc756517?rik=uC1CI2vF6rGsaQ&riu=http%3a%2f%2f3.bp.blogspot.com%2f-AZilix6O8ck%2fUW2lW9Y8PCI%2fAAAAAAAAADk%2fde0KnYsI_bI%2fs1600%2fShree-Ram.jpg&ehk=ZQ1CDZpq7LjZHresPbIu9E4PctQWQNxsBMkzuEmmWbw%3d&risl=&pid=ImgRaw&r=0">Ram</a>
 
+<img src="https://th.bing.com/th/id/R.69a6d1659017f96c9a8562e6dc756517?rik=uC1CI2vF6rGsaQ&riu=http%3a%2f%2f3.bp.blogspot.com%2f-AZilix6O8ck%2fUW2lW9Y8PCI%2fAAAAAAAAADk%2fde0KnYsI_bI%2fs1600%2fShree-Ram.jpg&ehk=ZQ1CDZpq7LjZHresPbIu9E4PctQWQNxsBMkzuEmmWbw%3d&risl=&pid=ImgRaw&r=0">Raama</img>
+
 
 
 
